@@ -100,3 +100,7 @@ perl ../../scripts/rollup.pl --tlist ../MICRO21_1C.tlist --exp ../MICRO21_1C.exp
 ```
 
 2. **将**`rollup.csv`**文件导出到数据处理器中（如Python Pandas、Excel等）以分析**。
+
+### 实验结果
+
+实验结果保存在 `experiments/experiments_1C` 路径下
