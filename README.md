@@ -99,4 +99,4 @@ cd experiments_1C/
 perl ../../scripts/rollup.pl --tlist ../MICRO21_1C.tlist --exp ../MICRO21_1C.exp --mfile ../rollup_1C_base_config.mfile > rollup.csv
 ```
 
-2. **将**`rollup.csv`**文件导出到你喜欢的数据处理器中（如Python Pandas、Excel等）以获取洞察**。
+2. **将**`rollup.csv`**文件导出到数据处理器中（如Python Pandas、Excel等）以获取洞察**。
